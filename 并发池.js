@@ -23,3 +23,19 @@ function concurrentScheduler(requests, max) {
 
   return Promise.all(tasks);
 }
+
+// 模拟请求
+const requests = Array.from({ length: 10 }, (_, i) => {
+  return () => {
+    console.log(`任务 ${i + 1} 开始`);
+
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        console.log(`任务 ${i + 1} 完成`);
+        resolve();
+      }, 1000);
+    });
+  };
+});
+
+concurrentScheduler(requests, 3);
