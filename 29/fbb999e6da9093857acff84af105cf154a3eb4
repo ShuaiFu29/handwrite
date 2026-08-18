@@ -1,0 +1,14 @@
+并发池.js
+  h_e06986ccbbf823 2,5,7,9-10,16,19,21,24-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.40-trip",
+  "base_commit_sha": "29fbb999e6da9093857acff84af105cf154a3eb4",
+  "prompts": {},
+  "humans": {
+    "h_e06986ccbbf823": {
+      "author": "kangyi <kangyi@trip.com>"
+    }
+  }
+}
