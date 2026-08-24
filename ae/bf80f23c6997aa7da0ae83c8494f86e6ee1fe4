@@ -1,0 +1,16 @@
+快速排序.js
+  h_e06986ccbbf823 14,25-28,37
+父子通信.jsx
+  h_e06986ccbbf823 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "aebf80f23c6997aa7da0ae83c8494f86e6ee1fe4",
+  "prompts": {},
+  "humans": {
+    "h_e06986ccbbf823": {
+      "author": "kangyi <kangyi@trip.com>"
+    }
+  }
+}
