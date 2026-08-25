@@ -1,0 +1,14 @@
+父子通信.jsx
+  h_e06986ccbbf823 1,8-18,22-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "b17b25299ff07453017679986d1247b55b434f5a",
+  "prompts": {},
+  "humans": {
+    "h_e06986ccbbf823": {
+      "author": "kangyi <kangyi@trip.com>"
+    }
+  }
+}
