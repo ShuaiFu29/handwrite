@@ -1,0 +1,14 @@
+冒泡排序.js
+  h_e06986ccbbf823 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.43-trip",
+  "base_commit_sha": "05059a5a35befc7e415b15c307f0b4ec6bb7ad24",
+  "prompts": {},
+  "humans": {
+    "h_e06986ccbbf823": {
+      "author": "kangyi <kangyi@trip.com>"
+    }
+  }
+}
